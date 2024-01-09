@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alababir
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Html, css and python projects
 - 📫 How to reach me ...
 
 <!---
