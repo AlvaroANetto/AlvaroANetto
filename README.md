@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alababir
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Python- Django
 - 💞️ I’m looking to collaborate on Html, css and python projects 
 
 
