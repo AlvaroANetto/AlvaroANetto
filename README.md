@@ -14,7 +14,7 @@ Abaixo estão alguns dos principais projetos que desenvolvi:
 Projeto de visão computacional, focado em uso da competição brasileira de robótica. Detecção rápida de bolas pretas ou prata metálico
 
 ### 2. [Seguidor de linha com camêra](https://github.com/Alababir/Line_follower_cam)
-Seguidor de linha com camera
+Seguidor de linha com camêra com uso focado na competição brasileira de robótica
 
 ### 3. [Colorir sem cores](https://github.com/Alababir/Projeto-Acessibilidade)
 Projeto focado em mostrar o mundo de desenho digital para pessoas com deficiências visuais
