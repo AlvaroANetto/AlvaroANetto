@@ -27,6 +27,8 @@ Eu sou familiarizado com uma variedade de tecnologias, como:
 - **Frameworks**: Django
 - **Ferramentas**: Git, VSCode
 
+Tenho experiencia com **Frontend**, fazendo portifólios e site variados
+
 ## 💻 Meu Processos de Desenvolvimento
 
 Eu sigo as melhores práticas de desenvolvimento, incluindo:
