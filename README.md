@@ -26,6 +26,7 @@ Eu sou familiarizado com uma variedade de tecnologias, como:
 - **Linguagens de Programação**: Python, JavaScript
 - **Frameworks**: Django
 - **Ferramentas**: Git, VSCode
+- **Habilidade**: HTML5, e CSS3
 
 Tenho experiencia com **Frontend**, fazendo portifólios e site variados [Um exemplo](https://alababir.github.io/portifolio/)
 
