@@ -4,6 +4,8 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante do curso técnico em Desenvolvi
 
 Neste perfil, você vai encontrar diversos projetos que desenvolvi ao longo do meu curso e por conta própria. Cada um desses repositórios é uma oportunidade de aplicar os conhecimentos adquiridos em sala de aula e na prática.
 
+Tenho experiencia com **Frontend**, fazendo [portifólios](https://alababir.github.io/MeuPortifolio/) e site variados Um exemplo
+
 Tenho fluência em ingles e busco colaborações com estudantes
 
 ## 🚀 Projetos
@@ -28,7 +30,7 @@ Eu sou familiarizado com uma variedade de tecnologias, como:
 - **Ferramentas**: Git, VSCode
 - **Habilidade**: HTML5, e CSS3
 
-Tenho experiencia com **Frontend**, fazendo portifólios e site variados [Um exemplo](https://alababir.github.io/MeuPortifolio/)
+
 
 ## 💻 Meu Processos de Desenvolvimento
 
