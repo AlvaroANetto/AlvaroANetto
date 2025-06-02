@@ -28,7 +28,7 @@ Eu sou familiarizado com uma variedade de tecnologias, como:
 - **Ferramentas**: Git, VSCode
 - **Habilidade**: HTML5, e CSS3
 
-Tenho experiencia com **Frontend**, fazendo portifólios e site variados [Um exemplo](https://alababir.github.io/portifolio/)
+Tenho experiencia com **Frontend**, fazendo portifólios e site variados [Um exemplo](https://alababir.github.io/MeuPortifolio/)
 
 ## 💻 Meu Processos de Desenvolvimento
 
