@@ -50,20 +50,5 @@ Aqui estão algumas estatísticas do meu GitHub:
 ## 📝 Blog e Contato
 
 - [LinkedIn](Não disponivel no momento)
-- [Twitter](Não disponivel no momento)
 
-## 🤝 Contribuições
-
-Se você deseja contribuir para algum dos meus projetos, fique à vontade para abrir um Pull Request! 
-
-### Passos para contribuir:
-1. Fork o repositório
-2. Crie uma branch para sua modificação
-3. Envie um Pull Request com uma descrição clara das mudanças
-
-## 📜 Licença
-
-Os projetos aqui são licenciados sob a Licença MIT, a menos que outra licença tenha sido especificada.
-
----
 
