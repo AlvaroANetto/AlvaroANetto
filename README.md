@@ -15,10 +15,10 @@ Abaixo estão alguns dos principais projetos que desenvolvi:
 ### 1. [Pre_ia](https://github.com/AlvaroANetto/Pre_ia)
 Projeto de visão computacional, focado em uso da competição brasileira de robótica. Detecção rápida de bolas pretas ou prata metálico
 
-### 2. [Seguidor de linha com camêra](https://github.com/Alababir/Line_follower_cam)
+### 2. [Seguidor de linha com camêra](https://github.com/AlvaroANetto/Line_follower_cam)
 Seguidor de linha com camêra com uso focado na competição brasileira de robótica
 
-### 3. [Colorir sem cores](https://github.com/Alababir/Projeto-Acessibilidade)
+### 3. [Colorir sem cores](https://github.com/AlvaroANetto/Projeto_acessibilidade_certo)
 Projeto focado em mostrar o mundo de desenho digital para pessoas com deficiências visuais
 
 ## 📚 Tecnologias que Uso
