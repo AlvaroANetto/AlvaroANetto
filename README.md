@@ -12,7 +12,7 @@ Tenho fluência em ingles e busco colaborações com estudantes
 
 Abaixo estão alguns dos principais projetos que desenvolvi:
 
-### 1. [Pre_ia](https://github.com/Alababir/Pre_ia)
+### 1. [Pre_ia](https://github.com/AlvaroANetto/Pre_ia)
 Projeto de visão computacional, focado em uso da competição brasileira de robótica. Detecção rápida de bolas pretas ou prata metálico
 
 ### 2. [Seguidor de linha com camêra](https://github.com/Alababir/Line_follower_cam)
