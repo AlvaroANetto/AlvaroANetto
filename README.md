@@ -45,7 +45,7 @@ Eu sigo as melhores práticas de desenvolvimento, incluindo:
 
 Aqui estão algumas estatísticas do meu GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alababir&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlvaroANetto&show_icons=true&theme=radical)
 
 ## 📝 Blog e Contato
 
