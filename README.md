@@ -1,10 +1,10 @@
 # Alvaro - Desenvolvedor de Sistemas
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante do curso técnico em Desenvolvimento de Sistemas no SENAI, e estou sempre buscando melhorar minhas habilidades de programação e aprender novas tecnologias.
+Bem-vindo ao meu perfil no GitHub! Sou estudante do curso técnico em Desenvolvimento de Sistemas no SENAI no 3 semestre, e estou sempre buscando melhorar minhas habilidades de programação e aprender novas tecnologias.
 
 Neste perfil, você vai encontrar diversos projetos que desenvolvi ao longo do meu curso e por conta própria. Cada um desses repositórios é uma oportunidade de aplicar os conhecimentos adquiridos em sala de aula e na prática.
 
-Tenho experiencia com **Frontend**, fazendo [portifólios](https://alvaroanetto.github.io/MeuPortifolio/) e site variados 
+Tenho experiencia com **Frontend**, fazendo [portifólios](https://alvaroanetto.github.io/MeuPortifolio/) e site variados, mas atualmente tenho preferência por **Back-End** e **automação**.
 
 Tenho fluência em ingles e busco colaborações com estudantes
 
@@ -12,7 +12,7 @@ Tenho fluência em ingles e busco colaborações com estudantes
 
 Abaixo estão alguns dos principais projetos que desenvolvi:
 
-### 1. [Pre_ia](https://github.com/AlvaroANetto/Pre_ia)
+### 1. [Visão Computacional](https://github.com/AlvaroANetto/Pre_ia)
 Projeto de visão computacional, focado em uso da competição brasileira de robótica. Detecção rápida de bolas pretas ou prata metálico
 
 ### 2. [Seguidor de linha com camêra](https://github.com/AlvaroANetto/Line_follower_cam)
@@ -25,10 +25,10 @@ Projeto focado em mostrar o mundo de desenho digital para pessoas com deficiênc
 
 Eu sou familiarizado com uma variedade de tecnologias, como:
 
-- **Linguagens de Programação**: Python, JavaScript
-- **Frameworks**: Django
-- **Ferramentas**: Git, VSCode
-- **Habilidade**: HTML5, e CSS3
+- **Linguagens de Programação**: Python, JavaScript, Java
+- **Frameworks**: Django, React Native
+- **Ferramentas**: Git, VSCode, Expo, Pacote Office
+- **Habilidade**: HTML5, CSS3 e MySQL
 
 
 
@@ -41,13 +41,7 @@ Eu sigo as melhores práticas de desenvolvimento, incluindo:
 - Documentação de código
 - Melhoria contínua através de revisões de código e feedback
 
-## 📈 Estatísticas do GitHub
-
-Aqui estão algumas estatísticas do meu GitHub:
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlvaroANetto&show_icons=true&theme=radical)
-
-## 📝 Blog e Contato
+## 📝 Contato
 
 - [LinkedIn](Não disponivel no momento)
 
